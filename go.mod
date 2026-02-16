@@ -1,3 +1,3 @@
-module github.com/kangqinmou/hello/v3
+module github.com/kangqinmou/hello/world
 
 go 1.25.0
