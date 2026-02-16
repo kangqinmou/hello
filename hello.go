@@ -1,8 +1,8 @@
-package kang
+package world
 
 import (
 	"fmt"
-	"github.com/kangqinmou/hello/world/qin"
+	"github.com/kangqinmou/hello/v4/qin"
 )
 
 var Kang = "康"
