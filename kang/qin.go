@@ -1,3 +1,3 @@
-package mou
+package qin
 
 var Mou = "谋"
