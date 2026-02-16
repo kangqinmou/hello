@@ -2,7 +2,7 @@ package kang
 
 import (
 	"fmt"
-	"hello/qin"
+	"github.com/kangqinmou/hello/qin"
 )
 
 var Kang = "康"
